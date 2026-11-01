@@ -1,0 +1,28 @@
+{
+  "name": "smart-library-management-system",
+  "version": "1.0.0",
+  "description": "Smart Library Management System Using QR Code Scanning and Automated Due-Date Notifications",
+  "scripts": {
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "install:server": "cd server && npm install",
+    "install:client": "cd client && npm install",
+    "install:all": "npm run install:server && npm run install:client",
+    "build:client": "cd client && npm run build"
+  },
+  "keywords": [
+    "mern",
+    "library-management",
+    "qr-code",
+    "tesseract-ocr",
+    "node-cron",
+    "vite",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "College Prototype Development Lab",
+  "license": "MIT"
+}
+
