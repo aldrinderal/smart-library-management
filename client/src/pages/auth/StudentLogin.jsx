@@ -69,19 +69,13 @@ const StudentLogin = () => {
               </span>
             </div>
             <div className="flex flex-wrap gap-2">
-              <button
-                type="button"
-                onClick={() => handleFillDemo('721924104026')}
-                className="text-[11px] bg-emerald-800/60 hover:bg-emerald-700 text-emerald-100 font-medium px-2 py-1 rounded transition-colors"
-              >
-                Aldrin (721924104026)
-              </button>
+             
               <button
                 type="button"
                 onClick={() => handleFillDemo('721924104045')}
                 className="text-[11px] bg-emerald-800/60 hover:bg-emerald-700 text-emerald-100 font-medium px-2 py-1 rounded transition-colors"
               >
-                Priya (721924104045)
+                Kathirvel E (721924104107)
               </button>
               <button
                 type="button"
